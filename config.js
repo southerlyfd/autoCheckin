@@ -10,7 +10,7 @@ module.exports = {
     freeCheckUrl: `https://api.juejin.cn/growth_api/v1/lottery_config/get`, //免费抽奖次数查询
     drawUrl: `https://api.juejin.cn/growth_api/v1/lottery/draw`, //抽奖接口
     copyHappy: `https://api.juejin.cn/growth_api/v1/lottery_lucky/dip_lucky`,  //沾喜气
-    lottery_history_id: `7020267603864059917`,  //被沾喜气的id
+    lottery_history_id: `7226544547436774916`,  //被沾喜气的id
     headers: {
       Referer: "https://juejin.cn/",
       "Upgrade-Insecure-Requests": 1,
