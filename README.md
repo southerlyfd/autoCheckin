@@ -19,7 +19,7 @@ PUSH_TOKEN：微信推送pushplus推送token，关注后拿到token用于推送�
 提交更新后actions就会自动触发了，正常的话微信会收到pushplus推送的消息
 
 ### 参考
-[GitHub - Cron/Cron: Cron API](https://github.com/Cron/Cron) 
+[GitHub - Cron/Cron: Cron API](https://github.com/Cron/Cron)
 
 [hccluck/public_actions](https://github.com/hccluck/public_actions) 
 
