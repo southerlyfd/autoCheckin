@@ -94,7 +94,7 @@ const copyHappyFun = async () => {
     url: copyHappy,
     method: `post`,
     headers,
-    params: { lottery_history_id },
+    params: { uuid: lottery_history_id, aid: 2608, spider: 0 },
   });
   if (res && res.data && res.data.err_no !== 403) {
     if (res.data.data.has_dip) {
